@@ -89,3 +89,23 @@ h1{
 
 /*---------- Fim  Main -----------*/
 
+/*---------- Our Clients -----------*/
+
+.Our-Client{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.Our-Client p{
+    margin-top: 8px;
+
+}
+
+.Logo-clients{
+    display:flex;
+    justify-content: center;
+    gap: 136px;
+    padding: 25px 0px;
+    margin-top: 16px;
+}
+/*---------- Fim  Our Clients -----------*/
