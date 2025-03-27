@@ -184,22 +184,23 @@ h1{
     display: flex;
     justify-content: center;
     gap: 49px;
-    margin-top: 89px;
+    margin-top: 42px;
+    padding: 52px;
 }
 
 .Pixelgrade-content{
-    width: 527  px;   
+    width: 661px;   
 }
 
 .Pixelgrade-content h2{
     font-size: 36px;
     margin-bottom: 16px;
-    color: var(--color-neutral-d_grey);
+    width: 526;
 }
 
 .Pixelgrade-content p{
-    color: var(--color-neutral-grey);
-    font-size: 14px;
+    margin-top: 16px;
+
 }
 
 /*----------  Fim Pixelgrade -----------*/
