@@ -175,3 +175,32 @@ h1{
 
 
 /*---------- fim  MANAGE SYSTEM -----------*/
+
+
+/*----------  Pixelgrade ----------- */
+
+
+.Pixelgrade{
+    display: flex;
+    justify-content: center;
+    gap: 49px;
+    margin-top: 89px;
+}
+
+.Pixelgrade-content{
+    width: 527  px;   
+}
+
+.Pixelgrade-content h2{
+    font-size: 36px;
+    margin-bottom: 16px;
+    color: var(--color-neutral-d_grey);
+}
+
+.Pixelgrade-content p{
+    color: var(--color-neutral-grey);
+    font-size: 14px;
+}
+
+/*----------  Fim Pixelgrade -----------*/
+
