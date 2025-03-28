@@ -205,3 +205,47 @@ h1{
 
 /*----------  Fim Pixelgrade -----------*/
 
+/* ---------- Helping Local----------*/
+
+.Helping-Local{
+    display: flex;
+    justify-content: center;
+    margin: 48px 0px;
+    background-color: var(--color-neutral-silver);
+    align-items: center;
+    gap: 72px;
+
+}
+
+.helpin-content h2{
+
+    width: 390px;
+
+}
+
+.helpin-content h2 span{
+    color: var(--color-primary);
+}
+
+.helpin-content p{
+
+    margin-top: 8px;
+    color: #18191F;
+
+}
+
+.helpin-statistic{
+
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+    margin: 64px;
+
+}
+
+.helpin-itens{
+    display: flex;
+}
+
+/* ---------- Fim Helping Local------*/
+
