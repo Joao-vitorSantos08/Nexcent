@@ -263,3 +263,42 @@ h1{
 
 /* ---------- Fim Helping Local------*/
 
+
+
+/* ---------- How to design------*/
+
+.How-to-design{
+    display: flex;
+    justify-content: center;
+    margin-top: 48px;
+    gap: 49.47px;
+    align-items: center;
+    padding: 48px;
+}
+
+.How-to-design-content{
+    width: 601px;
+    padding-top: 62px;
+
+}
+
+
+
+.How-to-design h2{
+    color: var(--color-neutral-d_grey);
+
+
+}
+
+.How-to-design p {
+    margin-bottom: 16px;
+    line-height: 1.5;
+   
+
+}
+
+
+/* ---------- Fim How to design------*/
+
+
+
