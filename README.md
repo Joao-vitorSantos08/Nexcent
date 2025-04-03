@@ -89,7 +89,7 @@ Ferramentas:
 ## 🦸 Autor
 
 <a href="https://br.linkedin.com/in/matheus-maia-alvarez-">
-João Vitor Santossouza</a>
+João Vitor Santos souza</a>
  <br />
  
 [![Gmail Badge](https://img.shields.io/badge/-mthalvarez2005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mthalvarez2005@gmail.com)](mailto:mthalvarez2005@gmail.com)
@@ -103,6 +103,6 @@ João Vitor Santossouza</a>
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito por Matheus Maia Alvarez👋🏽 [Entre em contato!](https://br.linkedin.com/in/matheus-maia-alvarez-)
+Feito por João Vitor Santos Souza👋🏽 [Entre em contato!](https://br.linkedin.com/in/matheus-maia-alvarez-)
 
 
