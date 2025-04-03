@@ -103,6 +103,6 @@ João Vitor Santos souza</a>
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito por João Vitor Santos Souza👋🏽 [Entre em contato!](https://br.linkedin.com/in/matheus-maia-alvarez-)
+Feito por João Vitor Santos Souza👋🏽 <!--- [Entre em contato!](https://br.linkedin.com/in/matheus-maia-alvarez-) --->
 
 
