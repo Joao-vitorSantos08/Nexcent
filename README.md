@@ -88,7 +88,7 @@ Ferramentas:
 <!-- MODELO DE AUTOR-->
 ## 🦸 Autor
 
-<a href="https://br.linkedin.com/in/matheus-maia-alvarez-">
+<a href="https://br.linkedin.com/in/Joao-vitorSantos08">
 João Vitor Santos souza</a>
  <br />
  
