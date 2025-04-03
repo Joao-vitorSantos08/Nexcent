@@ -41,12 +41,6 @@ Nexcent
 
 ![Mobile3](https://github.com/Joao-vitorSantos08/Nexcent/blob/main/src/assets/images/Thumbnail.png)
 
-### Widget em uma página externa
-
-![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk01.png)
-![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk02.png)
-![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk03.png)
-
 ---
 
 <!-- MODELO DE COMO EXECUTAR O PROJETO -->
