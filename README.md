@@ -31,7 +31,7 @@
 ## 💻 Sobre o projeto
 
 <!-- EXPLICA O MOTIVO DO PROJETO -->
-Nexcent 
+Nexcent Esse é o Meu primeiro Projeto do curso Web designer front-end que desenvolvi a partir de um prototico no figma">
 
 <!-- LINHA DE DIVISÃO: -->
 ---
