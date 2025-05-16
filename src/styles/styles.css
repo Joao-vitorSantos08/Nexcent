@@ -7,6 +7,7 @@ header{
     justify-content: space-around;
     align-items: center;
     background-color: var(--color-neutral-silver);
+    position: relative;
 }
 
 .logo{
@@ -57,21 +58,57 @@ header{
     padding: 22px 0px;
 }
 
+/* ----- menu toggle----- */
+
 .menu-toggle{
-   flex-direction: column;
-   width: 30px;
-   height: 22px; 
-   display: none;   
+    flex-direction: column;
+    width: 30px;
+    height: 22px; 
+    display: none; 
+    cursor: pointer;  
+ }
+ 
+ .menu{
+     background-color: black;
+     height: 4px;
+     width: 100%;
+     margin: 2px;
+     
+ }
+
+.navegation-mobile{
+    display: flex;
+    background-color: #61616161;
+    border-radius: 3px;
+    padding: 10px 15px 0px;
+    align-items: start;
+    text-align: start;
+    flex-direction: column;
+    position: absolute;
+    width: 45%;
+    height: 100vh;
+    right: 0px;
+    top: 100%;
+    gap: 20px;
 }
 
-.menu{
-    background-color: black;
-    height: 4px;
-    width: 100%;
-    margin: 2px;
-    
-}
 
+ .nav-header-mobile ul{
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     list-style: none;
+     gap: 5px;
+     
+ }
+ 
+ .nav-header-mobile ul a{
+    text-decoration: none;
+    color: var(--color-neutral-black);
+    font-weight: bold;
+ }
+ 
+/* ----- fim menu toggle----- */
 
 /* ------------ FIM HEADER ------------ */
 
