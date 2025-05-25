@@ -32,6 +32,7 @@
 
 <!-- EXPLICA O MOTIVO DO PROJETO -->
 Nexcent Esse é o Meu primeiro Projeto do curso Web designer front-end que desenvolvi a partir de um protótipo no figma
+com meu professor
 
 <!-- LINHA DE DIVISÃO: -->
 ---
