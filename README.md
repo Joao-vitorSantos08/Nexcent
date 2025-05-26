@@ -56,7 +56,8 @@ com meu professor
 <!-- MODELO DE PRÉ REQUISITOS -->
 ### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas um editor de código:
+- Navegador web moderno (Chrome, Firefox, Edge, Safari) para abrir e testar o projeto 
+ - Editor de código recomendado: Visual Studio Code
 
 
 ---
