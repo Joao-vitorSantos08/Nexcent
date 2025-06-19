@@ -17,13 +17,12 @@
 <!-- MODELO DE DESCRIÇÃO -->
 ## 📄 Descrição do entregável
 
-- src
-    - assets
-    - style
-    - fonts
-    - imagens
-
-- index.html
+- `src/`: Pasta que contém os arquivos fonte do projeto.
+  - `assets`: arquivos de mídia usados no projeto (ícones, logos, etc.)
+  - `style`: folhas de estilo CSS
+  - `fonts`: fontes personalizadas
+  - `imagens`: imagens usadas no site
+- `index.html`: arquivo principal do projeto
   
 ---
 
@@ -47,11 +46,15 @@ com meu professor
 <!-- MODELO DE COMO EXECUTAR O PROJETO -->
 ## 🚀 Como executar o projeto
 
-1 - Baixar o Projeto <br>
-2 - Abrir em um editor de código<br>
-3 - Rodar o projeto (npm start)
-
+1. Clone o repositório:
+   ```bash
+  	https://github.com/Joao-vitorSantos08/Nexcent.git
+2. Acesse a pasta do projeto:
+   
+   ```bash
+   cd Nexcent
 <!-- ---------------------------------------------------------------------- -->
+
 
 <!-- MODELO DE PRÉ REQUISITOS -->
 ### Pré-requisitos
