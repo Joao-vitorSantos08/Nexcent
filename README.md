@@ -65,6 +65,9 @@ com meu professor
 
 ---
 
+## Ou Acesse por aqui
+https://joao-vitorsantos08.github.io/Nexcent/
+
 
 
 <!-- MODELO DE TECNOLOGIAS -->
